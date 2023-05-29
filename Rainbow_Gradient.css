@@ -1,0 +1,13 @@
+#Gradient {
+    height: 600px;
+    background-color: red;
+    background-image: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet);
+  }
+div{
+    padding-top: 250px;
+    text-align:center;
+    margin:auto;
+    color:#ffffff;
+    font-size:40px;
+    font-weight:bold"
+}
