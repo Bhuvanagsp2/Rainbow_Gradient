@@ -1,0 +1,19 @@
+#html , #html5 , #htmltags , #css , #css3 , #gradient , #rainbow , #multicolor , #multicolorgradient , #rainbowgradient , #cssgradient , 
+#cssrainbowgradient , #htmlrainbowgradient
+
+Title : Rainbow Gradient in HTML, CSS
+
+Description : CSS gradients let you display smooth transitions between two or more specified colors.
+
+CSS Linear Gradients : 
+To create a linear gradient you must define at least two color stops. Color stops are the colors you want to render smooth transitions 
+among. You can also set a starting point and a direction (or an angle) along with the gradient effect.
+
+File structure : 
+1. Rainbow_gradient.html
+2. Rainbow_gradient.css
+
+Coding : https://github.com/Bhuvanagsp2/Rainbow_Gradient.git
+Click the above link to copy the code.
+
+YouTube : https://www.youtube.com/channel/UCVb7luKMbAeBI8kO6JG2Eig
